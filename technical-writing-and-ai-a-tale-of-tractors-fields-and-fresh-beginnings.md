@@ -27,6 +27,7 @@ While this simplistic analogy and dash of optimism set the stage, the script has
 Folklore and history are rich with tales of young people leaving familiar homesteads to pursue different careers. Some of us might leave, while others join us, riding the wave of demand and remuneration.
 
 **Enhancing Your Skills in the AI Era**
+
 Whether you are a newer or established professional, consider investing further in your craft:
 
 - Deepen Product Knowledge: Take courses, read books, roll up your sleeves, and get down to the nitty-gritty of the product.
