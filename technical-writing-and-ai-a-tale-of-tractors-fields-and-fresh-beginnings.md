@@ -5,15 +5,17 @@ If life was a movie, I'd be at the post-catalyst moment where the hero stares at
 
 I’ve been musing on the future of technical writing, a noble profession standing at the crossroads of a transformative technological era. Let me paint you a picture — maybe it hits home, maybe it’s a bit offbeat, or maybe it teaches a different lesson than I intended. Regardless, here it is:
 
-## Main Body*
+## Main Body
 Visualize a remote village nestled between verdant hills and lush farmland. As its inhabitants, we work tirelessly on the land, our lives governed by the ebb and flow of the seasons. We’ve heard rumors of miraculous machines, “tractors,” they call them, yet none of us have seen one up close until now.
 
 Our neighbor returns from a trip to the city, steering this monstrous contraption, its gears grinding, pulling an impressive array of farming tools behind it. Our hearts thud in our chests — both from exhilaration and a twinge of panic. Just like that, we are in the presence of a revolution.
 
 **Facing the AI Revolution**
+
 This is precisely where we find ourselves as technical writers today. AI is our metaphorical tractor, promising to amplify the fruits of our labor. The natural response, tinged with a scarcity mindset, might be: Oh dear, do we need fewer farmers/writers now? But, as with many panic-induced thoughts, this isn’t entirely accurate.
 
 **Why AI is Not a Threat But an Opportunity**
+
 For starters, even without the advent of AI, has anyone managed to document everything needing documentation? Not even close. From maintaining and updating a mammoth backlog of content to addressing undocumented features and tailoring content to a diverse user base — there’s more work than we can handle.
 
 Moreover, the advent of AI in docs coincides with its arrival in coding software. The tech industry isn’t sitting idle while AI takes strides. And more software means even more to document. Think of it as job security, if you will.
