@@ -1,4 +1,4 @@
-Technical Writing and AI: A Tale of Tractors, Fields, and Fresh Beginnings
+Technical writing and AI: a tale of tractors, fields, and fresh manure
 
 If life was a sitcom, we’d be at that point in the episode where the character stares at a mirror, questioning their career choice. But since this isn’t television, I’ll save us the dramatic pause and let you know: It will be just fine. Trust me on this.
 
