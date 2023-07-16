@@ -1,6 +1,6 @@
 Technical writing and AI: a tale of tractors, fields, and fresh manure
 
-If life was a sitcom, we’d be at that point in the episode where the character stares at a mirror, questioning their career choice. But since this isn’t television, I’ll save us the dramatic pause and let you know: It will be just fine. Trust me on this.
+If life was a movie, I'd be at the post-catalyst moment where the hero stares at themselves in the mirror and debates whether they can and must face the difficult quest ahead. But this isn't Hollywood, so I'll save you the dramatic pause and tell you what I'm telling myself: **_It will be just fine. Trust me on this._**
 
 I’ve been musing on the future of technical writing, a noble profession standing at the crossroads of a transformative technological era. Let me paint you a picture — maybe it hits home, maybe it’s a bit offbeat, or maybe it teaches a different lesson than I intended. Regardless, here it is:
 
